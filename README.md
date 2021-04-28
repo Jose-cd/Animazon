@@ -1,6 +1,6 @@
 # Animazon
 
-Amazon inspired app built using GraphQL Apollo server, typegraphql.
+Amazon inspired app built using GraphQL and Reactjs.
 
 # Installation
 
