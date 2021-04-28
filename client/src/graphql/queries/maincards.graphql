@@ -1,0 +1,6 @@
+query MainCards {
+  mainCards {
+    title
+    image
+  }
+}

@@ -1,0 +1,10 @@
+query Animals {
+  animals {
+    id
+    title
+    image
+    price
+    slug
+    description
+  }
+}

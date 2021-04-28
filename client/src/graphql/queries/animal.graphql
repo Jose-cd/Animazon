@@ -1,0 +1,9 @@
+query Animal($slug: String!) {
+  animal(slug: $slug) {
+    title
+    description
+    stock
+    price
+    image
+  }
+}
