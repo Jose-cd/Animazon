@@ -13,7 +13,7 @@ export default function Nav() {
         </h4>
         <div className="nav-delivery-info-container">
           <p>Deliver to Laith</p>
-          <h2>432 Park Avenue</h2>
+          <h2>43253 Park Avenue</h2>
         </div>
         <div className="nav-input-container">
           <select>
